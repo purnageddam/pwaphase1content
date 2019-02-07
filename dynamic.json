@@ -1,0 +1,45 @@
+{
+	"profile":{
+		"img":"images/srk.jpg",
+		"name":"Purna",
+		"roll":"16A31A0566",
+		"institute":"PEC",
+		"place":"Kakinada"
+
+	},
+	"career" :{
+		"info":"To work as a social servent"
+	},
+	"education":[
+		{
+			"s":"1",
+			"degree":"b.tech",
+			"institute":"PEC",
+			"yop":"2020"
+		},
+		{
+			"s":"2",
+			"degree":"inter",
+			"institute":"sri",
+			"yop":"2016"
+		},
+		{
+			"s":"3",
+			"degree":"ssc",
+			"institute":"ashram",
+			"yop":"2014"
+		}
+
+	],
+	"languages":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"hindi"
+		}
+	]
+}
